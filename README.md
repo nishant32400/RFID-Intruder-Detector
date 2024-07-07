@@ -43,5 +43,3 @@ This project is a security system that uses a webcam to detect faces and an RFID
     python main.py
     ```
 
-## License
-This project is licensed under the MIT License.
